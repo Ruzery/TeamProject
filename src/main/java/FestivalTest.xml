@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+	<header>
+		<resultCode>0000</resultCode>
+		<resultMsg>OK</resultMsg>
+	</header>
+	<body>
+		<items>
+			<item>
+				<addr1>서울특별시 종로구 삼청로 30</addr1>
+				<addr2>(소격동)</addr2>
+				<areacode>1</areacode> <!-- 지역 코드 -->
+				<cat1>A02</cat1>	<!-- 대분류 -->
+				<cat2>A0207</cat2>	<!-- 중분류 -->
+				<cat3>A02070200</cat3>	<!-- 소분류 -->
+				<contentid>2733528</contentid>	<!-- 이게 필수인지를 모르겠다 >> contentid를 빼고 실행할경우에도 해당 정보가 나옴 -->
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20210812164105</createdtime>	<!-- 등록일 -->
+				<eventenddate>20220313</eventenddate>	<!-- 행사시작일 -->
+				<eventstartdate>20210721</eventstartdate>	<!-- 행사 종료일 -->
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/27/2733527_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/27/2733527_image2_1.jpg
+				</firstimage2>
+				<mapx>126.9800649747</mapx> <!-- 위와같이 주소가 있는데 축제같은 경우는 좌표가 필수일까? -->
+				<mapy>37.5788361778</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210813104248</modifiedtime>	<!-- 콘텐츠 수정일 -->
+				<readcount>0</readcount>	<!-- 조회수 -->
+				<sigungucode>23</sigungucode>	<!-- 시군구 코드 -->
+				<tel>02-3701-9500</tel> <!-- 전화 번호 -->
+				<title>《MMCA 이건희컬렉션 특별전: 한국미술명작》</title>	<!-- 제목 -->
+			</item>
+			<item>
+				<addr1>충청남도 부여군 규암면 백제문로 388</addr1>
+				<areacode>34</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0208</cat2>
+				<cat3>A02080100</cat3>
+				<contentid>1258353</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20110418095420</createdtime>
+				<eventenddate>20211030</eventenddate>
+				<eventstartdate>20210306</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/54/2483454_image2_1.JPG
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/54/2483454_image2_1.JPG
+				</firstimage2>
+				<mapx>126.8997016069</mapx>
+				<mapy>36.3048428766</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210226112411</modifiedtime>
+				<readcount>56458</readcount>
+				<sigungucode>6</sigungucode>
+				<tel>041-832-5765</tel>
+				<title>가무악극으로 만나는 토요 상설공연</title>
+			</item>
+			<item>
+				<addr1>경상북도 칠곡군 가산면 학하들안2길 105</addr1>
+				<areacode>35</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>2709958</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20210316170348</createdtime>
+				<eventenddate>20210630</eventenddate>
+				<eventstartdate>20210320</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/89/2713489_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/89/2713489_image2_1.jpg
+				</firstimage2>
+				<mapx>128.4850691574</mapx>
+				<mapy>36.0861545517</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210409093816</modifiedtime>
+				<readcount>0</readcount>
+				<sigungucode>22</sigungucode>
+				<tel>054-971-9861</tel>
+				<title>가산수피아 '봄의 정원'</title>
+			</item>
+			<item>
+				<addr1>경기도 양평군 단월면 곱다니길 55-2 수미마을 방문객센터</addr1>
+				<areacode>31</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0208</cat2>
+				<cat3>A02081300</cat3>
+				<contentid>2704330</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20210119152643</createdtime>
+				<eventenddate>20211231</eventenddate>
+				<eventstartdate>20210116</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/26/2704326_image2_1.JPG
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/26/2704326_image2_1.JPG
+				</firstimage2>
+				<mapx>127.6574135888</mapx>
+				<mapy>37.5145504080</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210119152643</modifiedtime>
+				<readcount>0</readcount>
+				<sigungucode>19</sigungucode>
+				<tel>031-775-5205</tel>
+				<title>가족끼리 빙어체험 2021</title>
+			</item>
+			<item>
+				<addr1>경기도 양평군 단월면 곱다니길 55-2</addr1>
+				<areacode>31</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>1820268</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20130617093258</createdtime>
+				<eventenddate>20210606</eventenddate>
+				<eventstartdate>20210301</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/96/2707496_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/96/2707496_image2_1.jpg
+				</firstimage2>
+				<mapx>127.6573663730</mapx>
+				<mapy>37.5144948588</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210308133050</modifiedtime>
+				<readcount>94324</readcount>
+				<sigungucode>19</sigungucode>
+				<tel>031-775-5205</tel>
+				<title>가족끼리딸기 캠피닉</title>
+			</item>
+			<item>
+				<addr1>대구광역시 북구 호암로 15</addr1>
+				<addr2>(칠성동2가)</addr2>
+				<areacode>4</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0208</cat2>
+				<cat3>A02080400</cat3>
+				<contentid>2705052</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20210201172200</createdtime>
+				<eventenddate>20210228</eventenddate>
+				<eventstartdate>20210225</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/60/2705060_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/60/2705060_image2_1.jpg
+				</firstimage2>
+				<mapx>128.5922570230</mapx>
+				<mapy>35.8835072863</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210201173042</modifiedtime>
+				<readcount>0</readcount>
+				<sigungucode>5</sigungucode>
+				<tel>053-666-6170</tel>
+				<title>가족오페라 &lt;마술피리&gt; 2021</title>
+			</item>
+			<item>
+				<addr1>거창군 신원면 덕산리 산 57</addr1>
+				<addr2>거창군 신원면 덕산리 산 57</addr2>
+				<areacode>36</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>2746930</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20210916184525</createdtime>
+				<eventenddate>20211017</eventenddate>
+				<eventstartdate>20210924</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/26/2746926_image2_1.JPG
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/26/2746926_image2_1.JPG
+				</firstimage2>
+				<mapx>127.9163995903</mapx>
+				<mapy>35.5912836573</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210923091047</modifiedtime>
+				<readcount>0</readcount>
+				<sigungucode>2</sigungucode>
+				<tel>055-940-3390</tel>
+				<title>감악산 꽃&amp;별 여행</title>
+			</item>
+			<item>
+				<addr1>온라인 개최</addr1>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>1806376</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20130422102127</createdtime>
+				<eventenddate>20211016</eventenddate>
+				<eventstartdate>20211012</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/77/2751077_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/77/2751077_image2_1.jpg
+				</firstimage2>
+				<mapx>127.1573829418</mapx>
+				<mapy>37.5512675743</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210929131907</modifiedtime>
+				<readcount>21828</readcount>
+				<tel>강일 427-4004, 성내 471-0044, 해공 478-9656, 암사 429-0476, 천호
+					488-7223, 둔촌 489-6557
+				</tel>
+				<title>강동북페스티벌</title>
+			</item>
+			<item>
+				<addr1>서울특별시 강동구 성내로 25</addr1>
+				<addr2>(성내동)</addr2>
+				<areacode>1</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>1307813</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20110614164707</createdtime>
+				<eventenddate>20211010</eventenddate>
+				<eventstartdate>20211008</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/97/2751097_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/97/2751097_image2_1.jpg
+				</firstimage2>
+				<mapx>127.1237865998</mapx>
+				<mapy>37.5301777510</mapy>
+				<modifiedtime>20211007174311</modifiedtime>
+				<readcount>66461</readcount>
+				<sigungucode>2</sigungucode>
+				<tel>02-3425-8530</tel>
+				<title>강동선사문화축제</title>
+			</item>
+			<item>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>2759260</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20211019163257</createdtime>
+				<eventenddate>20211106</eventenddate>
+				<eventstartdate>20211030</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/57/2759257_image2_1.png
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/57/2759257_image2_1.png
+				</firstimage2>
+				<modifiedtime>20211019163257</modifiedtime>
+				<readcount>0</readcount>
+				<tel>02-482-7647</tel>
+				<title>강동청년축제</title>
+			</item>
+		</items>
+		<numOfRows>10</numOfRows>
+		<pageNo>1</pageNo>
+		<totalCount>843</totalCount>
+	</body>
+</response>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Response code: 200
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+	<header>
+		<resultCode>0000</resultCode>
+		<resultMsg>OK</resultMsg>
+	</header>
+	<body>
+		<items>
+			<item>
+				<addr1>서울특별시 종로구 삼청로 30</addr1>
+				<addr2>(소격동)</addr2>
+				<areacode>1</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>2733528</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20210812164105</createdtime>
+				<eventenddate>20220313</eventenddate>
+				<eventstartdate>20210721</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/27/2733527_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/27/2733527_image2_1.jpg
+				</firstimage2>
+				<mapx>126.9800649747</mapx>
+				<mapy>37.5788361778</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210813104248</modifiedtime>
+				<readcount>0</readcount>
+				<sigungucode>23</sigungucode>
+				<tel>02-3701-9500</tel>
+				<title>《MMCA 이건희컬렉션 특별전: 한국미술명작》</title>
+			</item>
+			<item>
+				<addr1>강원도 고성군 토성면 잼버리로 244</addr1>
+				<areacode>32</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0208</cat2>
+				<cat3>A02081300</cat3>
+				<contentid>2713558</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20210409172716</createdtime>
+				<eventenddate>20220605</eventenddate>
+				<eventstartdate>20220504</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/50/2758050_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/50/2758050_image2_1.jpg
+				</firstimage2>
+				<mapx>128.5001657397</mapx>
+				<mapy>38.2236839691</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20211018111141</modifiedtime>
+				<readcount>0</readcount>
+				<sigungucode>2</sigungucode>
+				<tel>033-818-2147</tel>
+				<title>강원세계산림엑스포</title>
+			</item>
+			<item>
+				<addr1>인천광역시 강화군 송해면 전망대로423번길 161</addr1>
+				<areacode>2</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>2643189</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20200108153349</createdtime>
+				<eventenddate>20220220</eventenddate>
+				<eventstartdate>20211224</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/84/2643184_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/84/2643184_image2_1.jpg
+				</firstimage2>
+				<mapx>126.4438577810</mapx>
+				<mapy>37.8001841894</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20211210085832</modifiedtime>
+				<readcount>0</readcount>
+				<sigungucode>1</sigungucode>
+				<tel>032-933-3266</tel>
+				<title>강화 빙어축제</title>
+			</item>
+			<item>
+				<addr1>인천광역시 강화군 양도면 중앙로787번길 8-2</addr1>
+				<areacode>2</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>1774420</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20130103101132</createdtime>
+				<eventenddate>20220301</eventenddate>
+				<eventstartdate>20211224</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/06/2802606_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/06/2802606_image2_1.jpg
+				</firstimage2>
+				<mapx>126.4312173349</mapx>
+				<mapy>37.6984402831</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20211229171324</modifiedtime>
+				<readcount>105057</readcount>
+				<sigungucode>1</sigungucode>
+				<tel>010-7617-6606</tel>
+				<title>강화도송어빙어축제</title>
+			</item>
+			<item>
+				<addr1>충청남도 계룡시 신도안면 정장리 16</addr1>
+				<areacode>34</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>1362833</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20110812145419</createdtime>
+				<eventenddate>20221023</eventenddate>
+				<eventstartdate>20221007</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/07/2549807_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/07/2549807_image2_1.jpg
+				</firstimage2>
+				<mapx>127.2371213251</mapx>
+				<mapy>36.3068152207</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20210923145127</modifiedtime>
+				<readcount>76676</readcount>
+				<sigungucode>16</sigungucode>
+				<tel>042-840-3907</tel>
+				<title>계룡세계군문화엑스포</title>
+			</item>
+			<item>
+				<addr1>강원도 원주시 호저면 호저로 1277-43</addr1>
+				<areacode>32</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>2517217</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20171123133259</createdtime>
+				<eventenddate>20220206</eventenddate>
+				<eventstartdate>20211120</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/64/2680064_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/64/2680064_image2_1.jpg
+				</firstimage2>
+				<mapx>127.9154662381</mapx>
+				<mapy>37.4800230785</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20211104143257</modifiedtime>
+				<readcount>4922</readcount>
+				<sigungucode>9</sigungucode>
+				<tel>033-732-9586</tel>
+				<title>고니골빛축제</title>
+			</item>
+			<item>
+				<addr1>경기도 고양시 일산동구 중앙로 1271-1</addr1>
+				<addr2>(장항동)</addr2>
+				<areacode>31</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0208</cat2>
+				<cat3>A02081300</cat3>
+				<contentid>2702939</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20210106174924</createdtime>
+				<eventenddate>20220227</eventenddate>
+				<eventstartdate>20211204</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/13/2799913_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/13/2799913_image2_1.jpg
+				</firstimage2>
+				<mapx>126.7727121731</mapx>
+				<mapy>37.6595397482</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20211215170403</modifiedtime>
+				<readcount>0</readcount>
+				<sigungucode>2</sigungucode>
+				<tel>031-8075-3003 / 3004</tel>
+				<title>고양시 트리니팅 프로젝트</title>
+			</item>
+			<item>
+				<addr1>서울특별시 종로구 삼청로 37</addr1>
+				<addr2>(세종로)</addr2>
+				<areacode>1</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0208</cat2>
+				<cat3>A02080100</cat3>
+				<contentid>140660</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20040311000000</createdtime>
+				<eventenddate>20221224</eventenddate>
+				<eventstartdate>20210101</eventstartdate>
+				<mapx>126.9788705506</mapx>
+				<mapy>37.5819663482</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20211221161229</modifiedtime>
+				<readcount>22182</readcount>
+				<sigungucode>23</sigungucode>
+				<tel>02-3704-3114</tel>
+				<title>국립민속박물관 우리민속한마당</title>
+			</item>
+			<item>
+				<addr1>부산광역시 해운대구 APEC로 55</addr1>
+				<addr2>(우동)</addr2>
+				<areacode>6</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0207</cat2>
+				<cat3>A02070200</cat3>
+				<contentid>2659596</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20200612110502</createdtime>
+				<eventenddate>20220327</eventenddate>
+				<eventstartdate>20220325</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/39/2722939_image2_1.png
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/39/2722939_image2_1.png
+				</firstimage2>
+				<mapx>129.1363402640</mapx>
+				<mapy>35.1691366711</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20211231112533</modifiedtime>
+				<readcount>0</readcount>
+				<sigungucode>16</sigungucode>
+				<tel>070-8866-6668</tel>
+				<title>궁디팡팡 캣페스타</title>
+			</item>
+			<item>
+				<addr1>서울특별시 중구 명동길 26</addr1>
+				<addr2>(명동2가)</addr2>
+				<areacode>1</areacode>
+				<cat1>A02</cat1>
+				<cat2>A0208</cat2>
+				<cat3>A02080300</cat3>
+				<contentid>406745</contentid>
+				<contenttypeid>15</contenttypeid>
+				<createdtime>20080118180330</createdtime>
+				<eventenddate>20220228</eventenddate>
+				<eventstartdate>20211202</eventstartdate>
+				<firstimage>http://tong.visitkorea.or.kr/cms/resource/86/2034286_image2_1.jpg
+				</firstimage>
+				<firstimage2>http://tong.visitkorea.or.kr/cms/resource/86/2034286_image3_1.jpg
+				</firstimage2>
+				<mapx>126.9837456304</mapx>
+				<mapy>37.5634463660</mapy>
+				<mlevel>6</mlevel>
+				<modifiedtime>20211221164759</modifiedtime>
+				<readcount>44442</readcount>
+				<sigungucode>24</sigungucode>
+				<tel>02-739-8288</tel>
+				<title>난타 (명동)</title>
+			</item>
+		</items>
+		<numOfRows>10</numOfRows>
+		<pageNo>1</pageNo>
+		<totalCount>74</totalCount>
+	</body>
+</response>
+
